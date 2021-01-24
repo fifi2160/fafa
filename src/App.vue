@@ -2,7 +2,11 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/mayumi konno">Mayumi Konno</router-link> |
+      <router-link to="/little thunder">Little Thunder</router-link> |
+      <router-link to="/miho hirano">Miho Hirano</router-link> |
+      <router-link to="/yogisya">Yogisya</router-link> 
+
     </div>
     <router-view/>
   </div>
